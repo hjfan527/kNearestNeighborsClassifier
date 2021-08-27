@@ -3,6 +3,8 @@ Created by Howard Fan
 Machine Learning Problem Set 2
 March 13, 2017
 
+LY was here ... hahaha
+
 Classifies all instances in the testing dataset via the k-Nearest Neighbor (k-NN) classifier with L2
 distance, comparing the testing dataset with an input training dataset. Returns a new testing dataset
 file with an additional comma-separated field consisting of the predicted labels
